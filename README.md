@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[Hux Blog](https://proskillgames.gitthub.io)
 ================================
 
 > I never expected this to become popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://proskillgames.gitthub.io/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
